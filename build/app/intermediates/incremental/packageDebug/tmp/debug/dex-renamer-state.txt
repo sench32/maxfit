@@ -1,4 +1,4 @@
-#Mon Jun 29 19:13:58 EEST 2020
+#Mon Jun 29 19:37:51 EEST 2020
 base.0=/home/sench/Flutter Projects/MaxFit/maxfit/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
